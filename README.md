@@ -25,10 +25,10 @@ Other than coding, I love video editing, sketching, and art. These hobbies allow
 
 Here are some of the projects I've worked on:
 
-1. **[Weather-App](https://github.com/vrandagarg/Weather-App)**
+1. **[Weather-App](https://vrandaagarg.github.io/Weather-App/)**
    - Get accurate and up-to-date weather information with our Weather App. Check today's weather and stay prepared with forecasts for the next 5 days.
 
-2. **[CodeX](https://github.com/vrandagarg/CodeX)**
+2. **[CodeX](https://vrandaagarg.github.io/CodeX/)**
    - Explore CodeX, a fully responsive website showcasing my projects like Stone-Paper-Scissors, Tic-Tac-Toe, Flip Coin, and more. Discover web development notes and insights.
 
 Feel free to check out my repositories for more projects and code samples.
