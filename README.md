@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey, I'm Vrandaagarg — The Dev Who Turns Coffee into Code! 🚀</h2>
+<h2 align="left">👋 Hey, I'm Vrandaagarg 🚀</h2>
 
 ###
 
