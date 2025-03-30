@@ -1,48 +1,95 @@
-# Hello, I'm Vranda Garg! 👋
+<h2 align="left">👋 Hey, I'm Vrandaagarg — The Dev Who Turns Coffee into Code! 🚀</h2>
 
-## About Me
+###
 
-I am a passionate web developer and programmer with a keen interest in building responsive and dynamic web applications. My journey in the tech world started with a curiosity for how websites are built and has evolved into a full-blown passion for coding and creating.
+<h4 align="left">💡 About Me</h4>
 
-Other than coding, I love video editing, sketching, and art. These hobbies allow me to explore my creativity and express myself in different ways.
+###
 
-## My Skills
+<p align="left">A full-stack developer with a passion for building scalable web apps, experimenting with new tech, and pushing the limits of creativity. Whether it's crafting smooth UI/UX, optimizing backend logic, or exploring AI-driven solutions, I’m always up for a challenge!</p>
 
-### Front-End Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+###
 
-### Back-End Development
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
+  <img height="166" src="https://media4.giphy.com/media/6EWyszhJ2kL3ceQuD2/giphy.gif"  />
+</div>
 
-## Projects
+###
 
-Here are some of the projects I've worked on:
+<br clear="both">
 
-1. **[Weather-App](https://vrandaagarg.github.io/Weather-App/)**
-   - Get accurate and up-to-date weather information with our Weather App. Check today's weather and stay prepared with forecasts for the next 5 days.
+<h2 align="center">Techstack</h2>
 
-2. **[CodeX](https://vrandaagarg.github.io/CodeX/)**
-   - Explore CodeX, a fully responsive website showcasing my projects like Stone-Paper-Scissors, Tic-Tac-Toe, Flip Coin, and more. Discover web development notes and insights.
+###
 
-Feel free to check out my repositories for more projects and code samples.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="53" alt="html5 logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="53" alt="css3 logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="53" alt="sass logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="53" alt="tailwindcss logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="53" alt="javascript logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="53" alt="react logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="53" alt="nodejs logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="53" alt="express logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="53" alt="mongodb logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="53" alt="mysql logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="53" alt="appwrite logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="53" alt="firebase logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="53" alt="python logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="53" alt="c logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="53" alt="cplusplus logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="53" alt="django logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="53" alt="git logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="53" alt="github logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="53" alt="java logo"  />
+  <img width="21" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="53" alt="vercel logo"  />
+  <img width="21" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="53" alt="netlify logo"  />
+</div>
 
-## Contact Me
+###
 
-- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white): [gargvranda963@gmail.com](mailto:gargvranda963@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): [Vranda Garg](https://www.linkedin.com/in/vranda-garg-b68011293/)
-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white): [vranda_garg](https://www.instagram.com/vranda_garg/)
+<h2 align="center">Github Stats</h2>
 
-## Let's Connect!
+###
 
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Let's connect and make something amazing together!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vrandaagarg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Vrandaagarg&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vrandaagarg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-⭐️ From [Vranda Garg](https://github.com/VrandaaGarg)
+<h3 align="left">📬 Let's Connect</h3>
+
+###
+
+<div align="left">
+  <a href="vrandacodz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vranda-garg-b68011293/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
