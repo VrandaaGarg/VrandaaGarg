@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Vrandaagarg 👋</h1>
+<h1 align="center">Hey there, I'm Vranda Garg 👋</h1>
 <p align="center">
   <b>Full-Stack Developer | AI Explorer | Sketch Artist | Professional Sleeper 😴</b><br/>
   <i>On a mission to build cool things while getting quality naps 🛌</i>
