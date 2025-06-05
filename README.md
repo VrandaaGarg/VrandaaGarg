@@ -30,6 +30,35 @@ A full-stack developer with a passion for building scalable web apps, experiment
 
 <br>
 
+<!-- Portfolio Section -->
+<h2>
+  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="30" height="30" alt="portfolio"> 
+  My Portfolio
+</h2>
+
+<div align="center">
+  <a href="https://vrandagarg.me" target="_blank">
+    <img src="./assets/portfolio.gif" alt="Portfolio Demo" width="80%" style="border-radius: 10px; border: 2px solid #FFC20D; box-shadow: 0 5px 15px rgba(255, 194, 13, 0.4);" />
+  </a>
+  
+  <h3>
+    <a href="https://vrandagarg.me" target="_blank" style="text-decoration: none; color: #FFC20D;">
+      ✨ vrandagarg.me ✨
+    </a>
+  </h3>
+  
+  <p>Check out my portfolio website to see my latest projects and learn more about my journey as a developer.</p>
+  
+  <a href="https://vrandagarg.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FFC20D?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit Portfolio" />
+  </a>
+  <a href="https://github.com/VrandaaGarg/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Source%20Code-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code" />
+  </a>
+</div>
+
+<br>
+
 <!-- Tech Stack Section -->
 <h2>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" alt="tech"> 
