@@ -42,8 +42,8 @@ A full-stack developer with a passion for building scalable web apps, experiment
   </a>
   
   <h3>
-    <a href="https://vrandagarg.me" target="_blank" style="text-decoration: none; color: #FFC20D;">
-      ✨ vrandagarg.me ✨
+    <a href="https://vrandagarg.in" target="_blank" style="text-decoration: none; color: #FFC20D;">
+      ✨ vrandagarg.in ✨
     </a>
   </h3>
   
