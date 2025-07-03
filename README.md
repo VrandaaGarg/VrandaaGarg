@@ -138,8 +138,8 @@ A full-stack developer with a passion for building scalable web apps, experiment
 </h2>
 
 <div align="center">
-  <a href="mailto:connect@vrandacodz.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-connect@vrandacodz.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:connect@vrandagarg.in" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-connect@vrandagarg.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vrandagarg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vranda%20Garg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
