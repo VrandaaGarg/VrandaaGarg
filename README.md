@@ -37,7 +37,7 @@ A full-stack developer with a passion for building scalable web apps, experiment
 </h2>
 
 <div align="center">
-  <a href="https://vrandagarg.me" target="_blank">
+  <a href="https://vrandagarg.in" target="_blank">
     <img src="./assets/portfolio.gif" alt="Portfolio Demo" width="80%" style="border-radius: 10px; border: 2px solid #FFC20D; box-shadow: 0 5px 15px rgba(255, 194, 13, 0.4);" />
   </a>
   
@@ -49,10 +49,10 @@ A full-stack developer with a passion for building scalable web apps, experiment
   
   <p>Check out my portfolio website to see my latest projects and learn more about my journey as a developer.</p>
   
-  <a href="https://vrandagarg.me" target="_blank">
+  <a href="https://vrandagarg.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FFC20D?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit Portfolio" />
   </a>
-  <a href="https://github.com/VrandaaGarg/Portfolio" target="_blank">
+  <a href="https://github.com/VrandaaGarg/next-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Source%20Code-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code" />
   </a>
 </div>
