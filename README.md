@@ -144,8 +144,8 @@ A full-stack developer with a passion for building scalable web apps, experiment
   <a href="https://www.linkedin.com/in/vrandagarg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vranda%20Garg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/vranda_garg_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@vranda__garg__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://x.com/vrandaagarg" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@vrandaagarg_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
