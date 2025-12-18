@@ -20,7 +20,7 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 
 - 🔭 Currently working as **Frontend Developer** at **Kakiyo OÜ**
 - 🚀 Building production-ready applications with **Next.js 15**, **TypeScript**, and **Tailwind CSS**
-- 🤖 Experienced in integrating **AI/ML solutions** and **real-time communication** systems
+- 🤖 Experienced in integrating **AI solutions** and **real-time communication** systems
 - 🎨 Strong focus on **UI/UX design**, animations, and **micro-interactions**
 - 📍 Based in **Hapur, Uttar Pradesh, India**
 
