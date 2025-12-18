@@ -15,10 +15,7 @@
 
 </div>
 
----
-
 ## 💼 About Me
-
 I'm a **Full Stack Developer** specializing in modern web applications with **Next.js**, **TypeScript**, and **React**. I build scalable, performant solutions featuring real-time systems, AI integration, and seamless user experiences.
 
 - 🔭 Currently working as **Frontend Developer** at **Kakiyo OÜ**
@@ -26,8 +23,6 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 - 🤖 Experienced in integrating **AI/ML solutions** and **real-time communication** systems
 - 🎨 Strong focus on **UI/UX design**, animations, and **micro-interactions**
 - 📍 Based in **Hapur, Uttar Pradesh, India**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -84,8 +79,6 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 
 </details>
 
----
-
 ## 🚀 Featured Projects
 
 ### 🤖 [CappyChat](https://cappychat.com) — AI Chat Platform
@@ -100,7 +93,6 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-cappychat.com-FFC20D?style=flat-square)](https://cappychat.com)
 
----
 
 ### 📄 [ResuMate](https://github.com/VrandaaGarg/ResuMate) — AI Resume Builder
 > AI-powered platform for building professional, ATS-friendly resumes
@@ -113,7 +105,6 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 
 [![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/VrandaaGarg/ResuMate)
 
----
 
 ## 💼 Experience
 
@@ -128,8 +119,6 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 - Implemented responsive layouts with high uptime through performance optimizations
 
 <br clear="left"/>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -152,7 +141,6 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 
 </div>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -162,7 +150,6 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 
 </div>
 
----
 
 ## 🤝 Let's Connect
 
@@ -178,11 +165,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 </div>
 
----
-
 <div align="center">
-
-### 💬 *"Building the future, one commit at a time"*
 
 <sub>⭐ Star my repositories if you find them useful!</sub>
 
