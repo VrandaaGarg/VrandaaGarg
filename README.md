@@ -135,12 +135,6 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 
 </div>
 
-<div align="center">
-
-[![GitHub Contribution Graph](https://ghchart.rshah.org/FFC20D/VrandaaGarg)](https://github.com/VrandaaGarg)
-
-</div>
-
 
 ## 🏆 GitHub Trophies
 
