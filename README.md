@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-vrandagarg.in-FFC20D?style=for-the-badge&logo=firefox&logoColor=white)](https://vrandagarg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vrandagarg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrandagarg/)
 [![Twitter](https://img.shields.io/badge/Twitter-@vrandaagarg-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vrandaagarg)
-[![Email](https://img.shields.io/badge/Email-connect@vrandagarg.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect@vrandagarg.in)
+[![Email](https://img.shields.io/badge/Email-connect@vrandagarg.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@vrandagarg.in)
 
 <img src="https://komarev.com/ghpvc/?username=VrandaaGarg&color=FFC20D&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
@@ -154,7 +154,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vrandagarg.in-FFC20D?style=for-the-badge)](https://vrandagarg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vrandagarg/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/vrandaagarg)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:connect@vrandagarg.in)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:hi@vrandagarg.in)
 [![Peerlist](https://img.shields.io/badge/Peerlist-Profile-00AA45?style=for-the-badge&logo=peerlist)](https://peerlist.io/vrandagarg)
 
 </div>
