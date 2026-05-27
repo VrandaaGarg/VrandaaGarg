@@ -16,13 +16,14 @@
 </div>
 
 ## 💼 About Me
-I'm a **Full Stack Developer** specializing in modern web applications with **Next.js**, **TypeScript**, and **React**. I build scalable, performant solutions featuring real-time systems, AI integration, and seamless user experiences.
+I'm a **Full Stack Developer** specializing in modern web applications with **Next.js**, **TypeScript**, and **React**. I **ship fast, end-to-end**, from database schema and API design to pixel-perfect UI, animations, and deployment.
 
-- 🔭 Currently working as **Frontend Developer** at **Kakiyo OÜ**
-- 🚀 Building production-ready applications with **Next.js 15**, **TypeScript**, and **Tailwind CSS**
-- 🤖 Experienced in integrating **AI solutions** and **real-time communication** systems
-- 🎨 Strong focus on **UI/UX design**, animations, and **micro-interactions**
-- 📍 Based in **Hapur, Uttar Pradesh, India**
+- Currently working as **Full Stack Developer** at **Kakiyo OÜ**
+- **Ship fast, end-to-end**: I take features from idea to schema to API to UI to production, solo or as part of a team
+- Shipping production-ready apps with **Next.js 15**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**
+- Building **AI-powered tools**, **developer platforms**, and **real-time systems**
+- Strong focus on **UI/UX design**, animations, and **micro-interactions**
+- Most recent projects shipped in **days to weeks**, not months.
 
 ## 🛠️ Tech Stack
 
@@ -46,25 +47,30 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>AI & Tools</b></summary>
+<summary><b>AI & Developer Tools</b></summary>
 <br>
 
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white)
 
 </details>
 
@@ -74,35 +80,64 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </details>
 
 ## 🚀 Featured Projects
 
-### 🤖 [CappyChat](https://cappychat.com) — AI Chat Platform
-> Next-generation AI chat platform engineered for performance and scalability
+### 📚 [MUJ General](https://muj-general.aysh.me/) - Research Repository & Journal Platform
+> Institutional research repository and journal publication platform for Manipal University Jaipur.
 
-- **30+ Premium AI Models** — GPT-5, Gemini 2.5, Claude 4, Grok 4, DeepSeek, Qwen with intelligent routing
-- **Sub-100ms Response Time** — Local-first architecture with IndexedDB + Appwrite cloud integration
-- **AI-Powered Features** — Image generation, voice input (Whisper), web search, Plan Mode with Mermaid diagrams
-- **Real-Time Sync** — Instant synchronization across devices with WebSocket connections
+- **Role-Based Access Control**: Reader, editor, and admin tiers with server-side enforcement via Better Auth sessions
+- **Versioned Research Items**: Every submission tracked with full revision history and reviewable diffs
+- **Multi-Stage Publication Pipeline**: Submission, peer review, moderation decisions, and final publication
+- **S3-Compatible File Storage**: PDFs and assets stored in Cloudflare R2 for provider portability
 
-**Tech:** `Next.js 15` `TypeScript` `Zustand` `Appwrite` `Vercel AI SDK` `Openrouter`
+**Tech:** `Next.js` `TypeScript` `Drizzle` `Neon` `Better Auth` `Cloudflare R2` `Framer Motion`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-muj--general-FFC20D?style=flat-square)](https://muj-general.aysh.me/)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/VrandaaGarg/muj-general)
+
+
+### 🤖 [CappyChat](https://cappychat.com) - AI Chat Platform
+> Next-generation AI chat platform engineered for performance and scalability.
+
+- **30+ Premium AI Models**: GPT-5, Gemini 2.5, Claude 4, Grok 4, DeepSeek, Qwen with intelligent routing
+- **Sub-100ms Response Time**: Local-first architecture with IndexedDB + Appwrite cloud integration
+- **AI-Powered Features**: Image generation, voice input (Whisper), web search, Plan Mode with Mermaid diagrams
+- **Real-Time Sync**: Instant synchronization across devices with WebSocket connections
+
+**Tech:** `Next.js 15` `TypeScript` `Zustand` `Appwrite` `OpenRouter` `Cloudinary` `Better Stack`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-cappychat.com-FFC20D?style=flat-square)](https://cappychat.com)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/cyberboyayush/cappychat)
 
 
-### 📄 [ResuMate](https://github.com/VrandaaGarg/ResuMate) — AI Resume Builder
-> AI-powered platform for building professional, ATS-friendly resumes
+### 🎮 [Quoridor Online](https://quoridor.vrandagarg.in) - Real-Time Multiplayer Strategy
+> A beautiful, animated implementation of the classic Quoridor board game with real-time multiplayer.
 
-- **Live Editing** — Real-time preview with smart formatting
-- **AI-Powered Suggestions** — Get feedback and improvements for your resume
-- **ATS-Optimized** — Templates designed to pass Applicant Tracking Systems
+- **Local Pass & Play + Online Multiplayer**: Shareable room codes, no sign-up required
+- **Real-Time Sync**: Serverless-friendly HTTP + SSE with Redis as single source of truth
+- **Animated, Polished UI**: Built with Framer Motion for fluid transitions
 
-**Tech:** `React` `JavaScript` `Firebase` `OpenAI api` `React Pdf` 
+**Tech:** `Next.js 15` `TypeScript` `Tailwind CSS` `Framer Motion` `Zustand` `Upstash Redis` `SSE`
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-quoridor.vrandagarg.in-FFC20D?style=flat-square)](https://quoridor.vrandagarg.in)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/VrandaaGarg/quoridor-game)
+
+
+### 📄 [ResuMate](https://resumate.vrandagarg.in/) - AI Resume Builder
+> AI-powered platform for building professional, ATS-friendly resumes with intelligent optimization.
+
+- **Resume Upload & ATS Analysis**: Upload PDF/DOCX, get instant ATS scoring
+- **AI Bullet Enhancer**: Transform points into action-oriented statements
+- **Job Description Matching**: Get match scores and improvement tips
+- **3 Professional Templates**: Pixel-perfect PDF export
+
+**Tech:** `React (Vite)` `TypeScript` `Tailwind CSS` `Framer Motion` `OpenAI API` `Firebase` `Appwrite`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-resumate.vrandagarg.in-FFC20D?style=flat-square)](https://resumate.vrandagarg.in/)
 [![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/VrandaaGarg/ResuMate)
 
 
@@ -110,13 +145,16 @@ I'm a **Full Stack Developer** specializing in modern web applications with **Ne
 
 <img align="left" width="60" src="https://res.cloudinary.com/dyetf2h9n/image/upload/v1757182382/logo_etjtoe.png" alt="Kakiyo OÜ" />
 
-### Frontend Developer @ Kakiyo OÜ
-**Nov 2025 - Present**
+### Full Stack Developer @ Kakiyo OÜ
+**Nov 2025 - Present** _(Promoted from Frontend Developer in Jan 2026)_
 
-- Developed core features with optimized, scalable architecture ensuring efficient rendering
-- Built intuitive UI/UX designs focusing on seamless navigation and accessibility
-- Created interactive micro-components and animations using Framer Motion
-- Implemented responsive layouts with high uptime through performance optimizations
+- Implemented the company hiring platform end-to-end: candidate flows, admin moderation, interview scheduling, and review workflows
+- Built a content creation dashboard for the content team, enabling collaborative editing and faster AI-assisted publishing
+- Improved dashboard UX with cleaner navigation and a smoother day-to-day flow for the team
+- Simplified user onboarding, reducing friction and helping new users reach their first action faster
+- Shipped polished micro-interactions and motion details across the product using Framer Motion
+
+**Stack:** `Next.js` `React` `Node.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Appwrite` `PlanetScale` `Redis`
 
 <br clear="left"/>
 
@@ -155,7 +193,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vrandagarg/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/vrandaagarg)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:hi@vrandagarg.in)
-[![Peerlist](https://img.shields.io/badge/Peerlist-Profile-00AA45?style=for-the-badge&logo=peerlist)](https://peerlist.io/vrandagarg)
 
 </div>
 
